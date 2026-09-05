@@ -1,0 +1,4 @@
+JavaFX scrollable stuff
+Dropdown menus
+JSON
+Singletonpattern

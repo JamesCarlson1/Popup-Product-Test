@@ -1,0 +1,7 @@
+6
+Hi,5
+time,6
+tree,7
+it,12
+why,8
+hello,5

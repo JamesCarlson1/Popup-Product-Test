@@ -1,0 +1,7 @@
+6
+free1.txt
+file2.txt
+file3.txt
+fle4.txt
+tree5.txt
+tree5.txt
