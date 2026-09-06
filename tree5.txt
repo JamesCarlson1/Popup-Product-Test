@@ -1,3 +1,0 @@
-2
-computer,7
-tv,1
