@@ -1,4 +1,8 @@
-# Inventory Manager
+# Important
+
+Claude made literally all of this code however I imported an old Project I did in one of my classes where it was just a simple Java, Swing file that used text files for data storage and told claude to turn it into a full-stack app. This was just a way for me to learn how full-stack app's work.
+
+## Inventory Manager
 
 A small inventory management tool with both a command-line interface and a
 Swing desktop GUI, backed by a SQLite database. Originally built for a CM111
